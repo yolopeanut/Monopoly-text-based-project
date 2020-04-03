@@ -1,0 +1,32 @@
+1	Advance to Go
+1	Go to jail. Move directly to jail. Do not pass Go. Do not collect 200
+1	Advance to Pall Mall. If you pass Go collection 200
+1	Take a trip to Marylebone Station and if you pass Go collect 200
+1	Advance to Trafalgar Square. If you pass Go collect 200
+1	Advance to Mayfair
+1	Go back three spaces
+1	Make general repairs on all of your houses. For each house pay 25. For each hotel pay 100
+1	You are assessed for street repairs: 40 per house, 115 per hotel
+1	Pay school fees of 150
+1	Drunk in charge fine 20
+1	Speeding fine 15
+1	Your building loan matures. Receive 150
+1	You have won a crossword competition. Collect 100
+1	Bank pays you dividend of 50
+1	Get out of jail free. This card may be kept until needed or sold
+0	Advance to Go
+0	Go back to Old Kent Road
+0	Go to jail. Move directly to jail. Do not pass Go. Do not collect 200
+0	Pay hospital 100
+0	Doctor's fee. Pay 50
+0	Pay your insurance premium 50
+0	Bank error in your favour. Collect 200
+0	Annuity matures. Collect 100
+0	You inherit 100
+0	From sale of stock you get 50
+0	Receive interest on 7% preference shares: 25
+0	Income tax refund. Collect 20
+0	You have won second prize in a beauty contest. Collect 10
+0	It is your birthday. Collect 10 from each player
+0	Get out of jail free. This card may be kept until needed or sold
+0	Pay a 10 fine or take a Chance
